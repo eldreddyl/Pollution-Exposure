@@ -13,4 +13,5 @@ This repository contains code, documentation, and files associated with our proj
 
 ## Other Resources
 - [OneDrive](https://adminliveunc-my.sharepoint.com/:f:/r/personal/deld_ad_unc_edu/Documents/Pollution_881?csf=1&web=1&e=mmdKB6) for data access (restricted to team members only)
-- [Zotero]() for reference management
+- [Zotero](https://www.zotero.org/groups/6140008/econ_881_pollution_exposure) for reference management
+- [Overleaf](https://www.overleaf.com/read/dsvhgwvdxsrd#f0620e) for paper drafts
